@@ -1,0 +1,1 @@
+Utils for Pixi.js - implemented to be used with require
